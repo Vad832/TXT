@@ -1,5 +1,11 @@
+id: 1
+
 summary: 
 Wrong spelling 'sklls.txt' in GIT Homework 1 TXT in item #11
+
+environment:
+operating system - Windows 10 Pro 21H2
+app - Telegram 3.7.3
 
 steps to reproduce: 
   1)open telegram channel '29_QA_Free_Channel';
