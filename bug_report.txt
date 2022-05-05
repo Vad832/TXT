@@ -1,0 +1,13 @@
+summary: 
+Wrong spelling 'sklls.txt' in GIT Homework 1 TXT in item #11
+
+steps to reproduce: 
+  1)open telegram channel '29_QA_Free_Channel';
+  2)find 'GIT Homework 1' post;
+  3)pay attention to item #11 in TXT part
+  
+actual result: spelling 'sklls.txt'
+expected result: spelling 'skills.txt'
+
+priority: low
+severity: trivial
