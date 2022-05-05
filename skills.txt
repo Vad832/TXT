@@ -1,0 +1,8 @@
+Skills: 
+1)terminal linux
+2)javaScript
+3)postman
+4)GitHub
+5)sql
+6)theory of testing software
+7)client server architecture
