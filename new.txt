@@ -1,0 +1,4 @@
+1) fullName - Stoika Vadym
+2) age - 27
+3) numberOfPets - 2
+4) expectedSalary - 300
